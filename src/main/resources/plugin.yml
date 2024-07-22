@@ -1,0 +1,11 @@
+name: RegisterLogin
+version: 1.0
+main: me.vortexedge.registerlogin.RegisterLogin
+api-version: 1.21
+commands:
+  register:
+    description: Register a new account
+  login:
+    description: Login to your account
+  changepassword:
+    description: Change Password of your account
