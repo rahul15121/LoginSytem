@@ -34,3 +34,6 @@ The plugin does not use any permissions. All players must register and login.
 1. **Register**: A new player joins the server and sees the title "Register" with the subtitle "Use /register <password>". The player types `/register mypassword` in the chat.
 2. **Login**: When the player rejoins the server, they see the title "Login" with the subtitle "Use /login <password>". The player types `/login mypassword` in the chat.
 3. **Change Password**: After logging in, the player can change their password using `/changepassword mynewpassword`.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
