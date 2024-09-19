@@ -1,5 +1,8 @@
 # LoginSystem Plugin
 
+
+![login System](https://github.com/user-attachments/assets/8c6cd61a-8d7a-4991-9944-abb943eb89f4)
+
 ## Overview
 The `LoginSystem` plugin is a simple authentication system for Minecraft Paper servers. It ensures that players must register and login before they can interact with the server or use any commands.
 
